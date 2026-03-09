@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "rhea",
+            "password": "rhea"
+        },
+        {
+            "username": null,
+            "password": null
+        },
+        {
+            "username": "wew",
+            "password": "$2y$10$FHIx\/pjmdbQnVCJqX.UiF.THqxspPEBmabNUp5kyOhrfGcob.ITd6"
+        },
+        {
+            "username": "Reyah",
+            "email": "reyahperolino@gmail.com",
+            "confirmpassword": "Reyah@2006_",
+            "password": "$2y$10$JpdG6GEIsDlOcpZ1oSi5cuVBBIkGqx5xRBwAVLrBH6eNyQp\/WbFH2",
+            "otp": 200910,
+            "otp_expiry": 1773026046
+        }
+    ]
+}
